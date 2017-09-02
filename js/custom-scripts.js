@@ -205,7 +205,7 @@ jQuery(function($) {
     function initialize_map() {
         var myLatlng = new google.maps.LatLng(latitude, longitude);
         var mapOptions = {
-            zoom: 17,
+            zoom: 12,
             scrollwheel: false,
             center: myLatlng
         };
