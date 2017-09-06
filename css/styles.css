@@ -68,7 +68,7 @@ hr {
   left: 50%;
   margin-left: -70px;
   height: 4px;
-  background: #7eb530;
+  background: #459012;
 }
 
 .btn {
@@ -77,14 +77,14 @@ hr {
 }
 .btn.btn-primary {
   background: transparent;
-  color: #7eb530;
+  color: #459012;
   padding: 12px 30px;
-  border: 1px solid #7eb530;
+  border: 1px solid #459012;
   border-radius: 5px;
 }
 .btn.btn-primary:hover,
 .btn.btn-primary:focus {
-  background: #7eb530;
+  background: #459012;
   color: #fff;
 }
 .column-title {
@@ -111,7 +111,7 @@ ul.nostyle i {
   color: #45aed6;
 }
 .navbar-default .navbar-toggle .icon-bar {
-    background-color: #7eb530;
+    background-color: #459012;
 }
 .scaleIn {
   -webkit-animation-name: scaleIn;
@@ -154,8 +154,8 @@ font-size: 15px;font-weight: 500;}
 /*************************
 *******Header******
 **************************/
-#main-nav.navbar-default {background: #ffffff;border-top: 4px solid #7eb530;}
-#main-nav.navbar-default .navbar-nav > li.active > a, #main-nav.navbar-default .navbar-nav > li.open > a, #main-nav.navbar-default .navbar-nav > li:hover > a {background: none;color: #7eb530;}
+#main-nav.navbar-default {background: #ffffff;border-top: 4px solid #459012;}
+#main-nav.navbar-default .navbar-nav > li.active > a, #main-nav.navbar-default .navbar-nav > li.open > a, #main-nav.navbar-default .navbar-nav > li:hover > a {background: none;color: #459012;}
 .navbar.navbar-default {
   border: 0;
   border-radius: 0;
@@ -164,7 +164,7 @@ font-size: 15px;font-weight: 500;}
 .navbar.navbar-default .navbar-toggle {
   margin-top: 20px;
   background: none;
-  border-color: #7eb530;
+  border-color: #459012;
 }
 .navbar.navbar-default .navbar-brand {
   height: auto;
@@ -281,7 +281,7 @@ font-size: 15px;font-weight: 500;}
 }
 #main-slider .owl-prev:hover,
 #main-slider .owl-next:hover {
-  background-color: #7eb530;
+  background-color: #459012;
 }
 #main-slider .owl-prev {
   left: -35px;
@@ -327,7 +327,7 @@ font-weight:normal;
 }
 #hero-text {
   padding: 70px 0;
-  background-color: #7eb530;
+  background-color: #459012;
   border-bottom:2px solid #EAEAEA;
   color: rgba(255, 255, 255, 0.74);
   margin-top: -100px;
@@ -375,7 +375,7 @@ font-weight:normal;
 }
 .media.service-box .pull-left {
   margin-right: 20px;
-  border: 1px dashed #7eb530;
+  border: 1px dashed #459012;
   padding: 10px;
   border-radius: 15px;
   border-radius: 50%;
@@ -387,7 +387,7 @@ font-weight:normal;
   text-align: center;
   width: 80px;
   color: #ffffff;
-  background: #7eb530;
+  background: #459012;
   transition: background-color 400ms, background-color 400ms;
   position: relative;
   border-radius: 50%;
@@ -426,14 +426,14 @@ span.food-price {
   padding: 7px 15px;
   margin:0px 2px;
   /* background: #fff; */
-  color: #7eb530;
+  color: #459012;
   position: relative;
-  border: 1px solid #7eb530;
+  border: 1px solid #459012;
   border-radius: 5px;
 }
 #portfolio .portfolio-filter > li a:hover,
 #portfolio .portfolio-filter > li a.active {
-  background: #7eb530;
+  background: #459012;
   color: #fff;
   border-radius: 5px;
 } 
@@ -811,7 +811,7 @@ height:35px;
 }
 #contact-us {
   padding: 100px 0 50px;
-  background: #7eb530;
+  background: #459012;
   color: #fff;
 }
 #contact-us h1,
@@ -925,7 +925,7 @@ padding: 7px 0 0;
 
 /* Pricing header */
 .price .header {
-    background-color: #7eb530;
+    background-color: #459012;
     color: white;
     font-size: 25px;
 }
@@ -945,7 +945,7 @@ padding: 7px 0 0;
 }
  
 .button {
-    background-color: #7eb530;
+    background-color: #459012;
     border: none;
     color: white;
     padding: 10px 25px;
